@@ -7,7 +7,8 @@ Necessário instalar:
 
 *	Robot Framework: O Robot Framework é um framework genérico de automação de código aberto. Pode ser usado para automação de teste (Web, Mobile e API), e automação de processo robótico (RPA).
 *	Python 3: linguagem de programação utilizada nos testes.
-* 	JDK: O Java Development Kit (JDK) é um dos três principais pacotes de tecnologia usados na programação Java, juntamente com a JVM (Java Virtual Machine) e o JRE (Java Runtime Environment).
+* Chromedriver: Uma ferramenta de código aberto que possibilita a comunicação do selenium com o Google Chrome.
+* JDK: O Java Development Kit (JDK) é um dos três principais pacotes de tecnologia usados na programação Java, juntamente com a JVM (Java Virtual Machine) e o JRE (Java Runtime Environment).
 *	Cmder for Windows: Sistema que trás as funcionalidades bash (Terminal) para o Windows.
 
 
